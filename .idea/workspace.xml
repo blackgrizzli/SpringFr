@@ -4,19 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2ac0ab6-eaff-4e39-ada2-98e0ac6e590d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b2ac0ab6-eaff-4e39-ada2-98e0ac6e590d" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringContext/AnnotationAddBean/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringContext/AnnotationAddBean/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringContext/AnnotationAddBean/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringContext/StereotipAddBean/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringContext/StereotipAddBean/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpringContext/StereotipAddBean/ProjectConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest/TestBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest_SpringAuto/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest_SpringAuto/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest_SpringAuto/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest_SpringAuto/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest_SpringAuto/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest_SpringAuto/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest_SpringAuto/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest_SpringAuto/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/MusicTest_SpringAuto/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/MusicTest_SpringAuto/TestBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/Solution/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/Solution/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/Solution/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/Solution/TestBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringCore/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringContext/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +62,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.33425796",
@@ -57,6 +77,21 @@
       <option name="presentableId" value="Default" />
       <updated>1679400386287</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1679400803925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679400803925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1">
+      <created>1679400815296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679400815296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +106,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>

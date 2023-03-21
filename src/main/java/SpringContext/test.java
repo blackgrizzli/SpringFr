@@ -1,4 +1,4 @@
-package SpringCore;
+package SpringContext;
 
 public class test {
 }

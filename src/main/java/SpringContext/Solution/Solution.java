@@ -1,4 +1,4 @@
-package SpringCore.Solution;
+package SpringContext.Solution;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -1,4 +1,4 @@
-package SpringCore.Solution;
+package SpringContext.Solution;
 
 public class TestBean {
     String name;

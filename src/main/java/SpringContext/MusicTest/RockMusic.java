@@ -1,4 +1,4 @@
-package SpringCore.MusicTest;
+package SpringContext.MusicTest;
 
 public class RockMusic implements Music{
     @Override

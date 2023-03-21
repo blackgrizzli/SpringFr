@@ -1,4 +1,4 @@
-package SpringCore.MusicTest_SpringAuto;
+package SpringContext.MusicTest_SpringAuto;
 
 public class ClassicalMusic implements Music{
     @Override

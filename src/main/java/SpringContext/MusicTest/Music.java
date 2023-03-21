@@ -1,4 +1,4 @@
-package SpringCore.MusicTest_SpringAuto;
+package SpringContext.MusicTest;
 
 public interface Music {
     String getSong();

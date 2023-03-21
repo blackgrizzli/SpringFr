@@ -1,4 +1,4 @@
-package SpringCore.MusicTest;
+package SpringContext.MusicTest;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
